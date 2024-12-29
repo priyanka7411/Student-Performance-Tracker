@@ -1,0 +1,2 @@
+pandas
+openpyxl  # For reading Excel files

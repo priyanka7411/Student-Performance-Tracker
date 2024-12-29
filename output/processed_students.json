@@ -1,0 +1,5002 @@
+[
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 72.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 82.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 92.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 49.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 76.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 77.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 91.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 40.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 65.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 49.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 54.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 45.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 73.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 73.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 53.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 74.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 87.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 26.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 44.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 57.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 66.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 70.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 50.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 71.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 75.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 73.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 59.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 70.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 68.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 69.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 72.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 63.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 64.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 40.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 88.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 80.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 79.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 57.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 84.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 56.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 56.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 66.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 58.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 63.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 53.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 58.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 60.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 71.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 69.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 82.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 52.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 71.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 46.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 80.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 80.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 39.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 84.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 52.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 58.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 9.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 75.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 37.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 59.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 73.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 58.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 64.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 39.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 68.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 58.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 53.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 64.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 60.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 46.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 58.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 46.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 41.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 26.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 79.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 69.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 66.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 48.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 46.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 50.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 66.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 38.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 78.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 82.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 72.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 65.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 80.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 70.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 32.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 73.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 46.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 85.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 80.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 64.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 68.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 62.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 64.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 71.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 72.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 88.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 50.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 91.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 65.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 95.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 64.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 66.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 68.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 88.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 55.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 51.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 54.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 99.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 78.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 80.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 79.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 58.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 63.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 86.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 90.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 91.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 58.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 78.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 89.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 69.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 72.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 79.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 50.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 85.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 43.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 77.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 80.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 76.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 53.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 48.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 60.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 64.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 67.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 73.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 61.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 50.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 49.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 79.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 31.333333333333332
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 82.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 69.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 74.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 97.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 66.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 70.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 65.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 50.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 63.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 82.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 72.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 60.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 78.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 64.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 78.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 82.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 51.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 51.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 88.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 98.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 51.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 70.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 76.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 70.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 73.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 86.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 82.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 66.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 49.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 86.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 52.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 75.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 61.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 99.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 68.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 58.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 49.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 68.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 48.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 65.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 73.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 65.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 48.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 84.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 66.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 79.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 64.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 67.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 79.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 56.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 64.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 54.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 51.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 77.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 79.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 74.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 71.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 64.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 47.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 74.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 68.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 79.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 77.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 61.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 79.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 30.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 54.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 55.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 86.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 80.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 85.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 38.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 71.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 57.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 66.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 81.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 60.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 80.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 63.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 51.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 71.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 53.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 68.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 92.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 68.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 43.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 78.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 85.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 83.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 77.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 65.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 66.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 52.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 81.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 69.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 82.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 54.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 51.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 72.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 77.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 79.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 65.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 63.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 60.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 48.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 79.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 66.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 77.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 52.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 68.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 68.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 77.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 74.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 75.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 73.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 78.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 48.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 94.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 72.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 47.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 73.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 72.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 91.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 72.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 64.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 49.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 52.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 68.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 83.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 78.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 90.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 65.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 77.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 62.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 49.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 46.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 78.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 75.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 43.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 81.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 89.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 79.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 79.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 76.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 71.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 76.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 60.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 71.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 78.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 63.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 43.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 71.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 45.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 84.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 80.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 54.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 77.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 73.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 77.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 68.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 89.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 49.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 63.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 52.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 76.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 61.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 65.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 68.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 66.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 67.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 83.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 77.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 67.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 61.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 76.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 80.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 77.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 49.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 43.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 88.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 61.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 23.333333333333332
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 78.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 49.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 64.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 39.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 57.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 83.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 90.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 65.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 71.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 47.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 29.666666666666668
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 50.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 57.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 65.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 73.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 68.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 73.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 75.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 60.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 88.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 71.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 79.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 62.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 58.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 73.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 53.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 66.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 67.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 61.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 59.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 60.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 86.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 59.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 82.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 56.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 31.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 59.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 55.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 60.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 62.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 55.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 80.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 77.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 62.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 73.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 91.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 67.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 43.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 84.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 93.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 77.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 64.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 83.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 94.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 77.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 44.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 41.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 72.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 69.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 67.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 63.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 72.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 66.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 74.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 70.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 55.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 72.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 44.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 60.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 89.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 64.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 57.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 60.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 46.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 56.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 95.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 58.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 68.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 64.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 79.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 55.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 85.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 71.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 81.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 65.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 65.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 67.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 75.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 71.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 71.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 63.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 55.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 89.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 59.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 57.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 74.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 38.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 63.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 85.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 68.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 59.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 61.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 63.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 67.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 57.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 52.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 68.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 50.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 69.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 71.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 59.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 86.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 75.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 79.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 67.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 77.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 78.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 72.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 65.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 82.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 45.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 75.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 78.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 96.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 72.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 57.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 58.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 46.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 85.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 51.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 100.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 68.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 55.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 51.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 72.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 86.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 65.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 87.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 31.666666666666668
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 68.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 83.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 80.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 86.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 68.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 79.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 62.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 90.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 76.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 68.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 73.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 63.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 71.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 70.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 55.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 65.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 52.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 51.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 71.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 54.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 69.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 58.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 81.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 75.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 66.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 85.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 86.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 62.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 66.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 51.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 71.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 67.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 73.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 78.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 91.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 59.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 92.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 51.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 81.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 68.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 56.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 78.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 88.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 73.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 52.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 54.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 59.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 89.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 82.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 82.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 71.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 74.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 74.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 57.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 87.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 61.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 54.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 51.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 62.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 59.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 44.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 39.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 68.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 69.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 51.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 60.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 87.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 70.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 77.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 56.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 59.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 74.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 91.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 70.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 80.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 79.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 88.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 64.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 80.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 96.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 67.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 64.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 73.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 73.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 88.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 46.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 67.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 46.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 34.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 68.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 64.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 64.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 67.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 76.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 70.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 92.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 74.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 48.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 45.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 97.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 70.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 52.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 67.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 72.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 93.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 57.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 60.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 75.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 49.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 54.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 87.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 54.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 60.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 91.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 78.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 71.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 76.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 74.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 72.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 67.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 56.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 61.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 59.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 56.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 61.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 66.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 74.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 97.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 69.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 23.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 51.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 73.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 76.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 59.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 29.333333333333332
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 78.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 56.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 87.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 69.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 83.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 50.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 62.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 62.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 64.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 61.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 91.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 72.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 89.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 66.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 40.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 83.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 86.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 68.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 50.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 60.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 53.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 94.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 60.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 98.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 67.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 51.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 50.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 50.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 67.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 68.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 73.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 82.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 82.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 69.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 76.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 86.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 78.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 74.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 48.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 84.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 77.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 77.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 65.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 75.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 64.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 64.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 52.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 76.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 53.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 74.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 89.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 69.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 77.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 65.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 69.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 65.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 53.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 87.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 74.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 67.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 65.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 67.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 68.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 56.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 69.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 83.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 69.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 76.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 70.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 53.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 74.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 77.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 74.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 60.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 75.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 76.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 78.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 61.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 71.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 62.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 57.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 37.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 65.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 97.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 76.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 76.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 51.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 88.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 51.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 75.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 73.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 75.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 56.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 84.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 82.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 67.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 71.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 63.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 80.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 65.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 86.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 64.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 62.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 66.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 38.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 59.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 85.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 53.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 89.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 83.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 99.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 82.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 68.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 85.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 74.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 97.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 75.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 81.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 68.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 57.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 84.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 46.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 43.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 75.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 72.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 58.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 83.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 43.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 75.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 48.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 90.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 48.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 56.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 61.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 85.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 64.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 75.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 58.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 75.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 50.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 82.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 68.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 52.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 75.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 71.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 67.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 56.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 85.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 69.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 68.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 77.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 84.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 55.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 90.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 55.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 70.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 58.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 74.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 63.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 53.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 81.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 62.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 60.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 72.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 70.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 66.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 71.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 58.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 49.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 74.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 63.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 73.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 63.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 54.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 69.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 40.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 77.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 87.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 53.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 83.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 81.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 57.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 83.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 42.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 76.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 29.666666666666668
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 64.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 59.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 56.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 65.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 69.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 83.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 48.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 66.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 70.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 78.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 61.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 54.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 69.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 76.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 92.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 84.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 75.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 76.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 71.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 42.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 78.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 54.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 39.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 47.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 61.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 82.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 78.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 89.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 56.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 69.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 66.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 85.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 89.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 87.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 50.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 80.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 52.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 62.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 64.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 70.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 78.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 58.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 59.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 83.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 60.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 82.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 51.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 66.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 64.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 78.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 56.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 72.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 45.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 57.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 34.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 75.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 56.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 86.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 87.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 56.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 66.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 74.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 68.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 64.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 88.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 70.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 60.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 96.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 69.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 75.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 49.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 77.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 56.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 84.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 39.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 74.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 93.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 84.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 54.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 48.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 74.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 50.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 54.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 72.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 81.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 87.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 55.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 70.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 82.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 57.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 70.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 71.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 64.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 70.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 69.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 48.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 52.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 72.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 96.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 61.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 69.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 47.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 87.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 87.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 63.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 79.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 63.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 34.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 30.666666666666668
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 73.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 61.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 75.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 86.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 75.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 41.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 97.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 78.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 80.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 52.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 84.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 71.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 68.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 46.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 78.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 59.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 58.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 54.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 68.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 100.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 52.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 71.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 92.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 68.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 44.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 68.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 61.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 71.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 66.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 57.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 65.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 44.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 51.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 70.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 60.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 68.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 73.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 91.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 63.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 59.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 57.333333333333336
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 83.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 71.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 70.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 88.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 70.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 61.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 62.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 57.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 81.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 55.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 50.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 68.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 79.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 78.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 73.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 54.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 66.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 63.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 84.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 97.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 55.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 75.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 59.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 51.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 100.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 72.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 62.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 68.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 66.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 62.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 70.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 79.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 96.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 73.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 54.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 58.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 61.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 74.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 60.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 61.666666666666664
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 48.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 93.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 18.333333333333332
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group D",
+        "Average Score": 79.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group B",
+        "Average Score": 83.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 85.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 77.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 54.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 50.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 77.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group A",
+        "Average Score": 44.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 78.66666666666667
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group E",
+        "Average Score": 80.66666666666667
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group B",
+        "Average Score": 75.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 69.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 69.33333333333333
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group A",
+        "Average Score": 62.666666666666664
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group E",
+        "Average Score": 94.0
+    },
+    {
+        "Gender": "male",
+        "Race/Ethnicity": "group C",
+        "Average Score": 57.333333333333336
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group C",
+        "Average Score": 65.0
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 74.33333333333333
+    },
+    {
+        "Gender": "female",
+        "Race/Ethnicity": "group D",
+        "Average Score": 83.0
+    }
+]
