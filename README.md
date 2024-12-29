@@ -45,8 +45,6 @@ Visualize the data: View visualizations like bar charts and pie charts to analyz
 
 Save filtered data: Click the "Save Filtered Data" button to save the modified dataset.
 
-## Screenshot
-https://github.com/priyanka7411/Student-Performance-Tracker/commit/bc54f6464851ede6b1175c47bc36edecfecb0982
 
 ## Contributing
 Fork the repository.
